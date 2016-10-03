@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "966933228116",
+    "firebase_url": "https://test-alexis-e0982.firebaseio.com",
+    "project_id": "test-alexis-e0982",
+    "storage_bucket": "test-alexis-e0982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966933228116:android:d9eaf549623bac41",
+        "android_client_info": {
+          "package_name": "com.adobe.adbmobilesamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966933228116-m9374hl4960lorta4i6f0lg644a7gvvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuojD6AhKfWQ37KDzDBD53AZRehfDQho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966933228116:android:f13fa6145818392f",
+        "android_client_info": {
+          "package_name": "com.tutorial.alexiscazes.pushmessages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966933228116-m9374hl4960lorta4i6f0lg644a7gvvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuojD6AhKfWQ37KDzDBD53AZRehfDQho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

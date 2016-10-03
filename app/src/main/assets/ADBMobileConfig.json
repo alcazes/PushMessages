@@ -1,0 +1,39 @@
+{
+  "lastModified": "2016-09-15T13:00:39.612Z",
+  "marketingCloud": {
+    "org": "31DD1E1353F3CAA50A490D45@AdobeOrg"
+  },
+  "target": {
+    "clientCode": "",
+    "timeout": 5
+  },
+  "audienceManager": {
+    "server": "",
+    "analyticsForwardingEnabled": false,
+    "timeout": 5
+  },
+  "acquisition": {
+    "server": "c00.adobe.com",
+    "appid": "56e4f005db5699f0205dd17b25fb820b2f5d04db201c7b0a75fe1bd3a3389786"
+  },
+  "analytics": {
+    "rsids": "ediccacazes.android.final.prod",
+    "server": "edinburghcc.sc.omtrdc.net",
+    "ssl": false,
+    "offlineEnabled": true,
+    "charset": "UTF-8",
+    "lifecycleTimeout": 300,
+    "privacyDefault": "optedin",
+    "batchLimit": 0,
+    "timezone": "BST",
+    "timezoneOffset": 60,
+    "referrerTimeout": 0,
+    "backdateSessionInfo": false,
+    "poi": []
+  },
+  "messages": [],
+  "remotes": {
+    "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-57da98ba64746d3238003ef2.json",
+    "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-57da98ba64746d78b800f754.json"
+  }
+}
