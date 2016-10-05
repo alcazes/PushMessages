@@ -8,6 +8,7 @@ import com.adobe.mobile.Analytics;
 import com.adobe.mobile.Config;
 import com.tutorial.alexiscazes.pushmessages.messaging.RegistrationIntentService;
 
+import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
@@ -96,5 +97,9 @@ public class MainActivity extends AppCompatActivity {
 		 * trackState(...) increments the page view
 		 */
         Analytics.trackState("Main Menu push messaging", null);
+        // Adobe - track when this state loads
+        HashMap<String, Object> exampleContextData = new HashMap<String, Object>();
+        exampleContextData.put("&&r", "Referrer");
+        Analytics.trackState("Home Screen", exampleContextData);
     }
 }
